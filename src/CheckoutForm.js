@@ -1,34 +1,33 @@
 import React from "react";
+import "./App.css";
 
-function CheckoutForm() {
-
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    alert("Order Placed Successfully!");
-  };
-
+function App() {
   return (
-    <form onSubmit={handleSubmit}>
+    <div className="container">
+      <h1>Smart e-Commerce Checkout Workflow</h1>
 
-      <h2>Checkout Details</h2>
+      <h2>Cart Items</h2>
+      <p>Laptop - $800</p>
+      <p>Headphones - $100</p>
 
-      <label>Name</label>
-      <input type="text" required />
+      <h2>Order Summary</h2>
+      <p>Total Items: 2</p>
+      <p>Total Price: $900</p>
 
-      <label>Address</label>
-      <input type="text" required />
+      <h2>Checkout Form</h2>
 
-      <label>Payment Method</label>
+      <input type="text" placeholder="Enter Name" />
+      <input type="text" placeholder="Enter Address" />
+
       <select>
         <option>Credit Card</option>
         <option>UPI</option>
         <option>Cash on Delivery</option>
       </select>
 
-      <button type="submit">Place Order</button>
-
-    </form>
+      <button>Place Order</button>
+    </div>
   );
 }
 
-export default CheckoutForm;
+export default App;
