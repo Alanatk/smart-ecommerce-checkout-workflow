@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/smart-ecommerce-checkout-workflow/static/css/main.d020d96e.css",
+    "main.js": "/smart-ecommerce-checkout-workflow/static/js/main.b7f5e3e8.js",
+    "static/js/453.1b5aa61d.chunk.js": "/smart-ecommerce-checkout-workflow/static/js/453.1b5aa61d.chunk.js",
+    "index.html": "/smart-ecommerce-checkout-workflow/index.html",
+    "main.d020d96e.css.map": "/smart-ecommerce-checkout-workflow/static/css/main.d020d96e.css.map",
+    "main.b7f5e3e8.js.map": "/smart-ecommerce-checkout-workflow/static/js/main.b7f5e3e8.js.map",
+    "453.1b5aa61d.chunk.js.map": "/smart-ecommerce-checkout-workflow/static/js/453.1b5aa61d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d020d96e.css",
+    "static/js/main.b7f5e3e8.js"
+  ]
+}
