@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/smart-ecommerce-checkout-workflow/static/css/main.d020d96e.css",
-    "main.js": "/smart-ecommerce-checkout-workflow/static/js/main.cffecc56.js",
+    "main.css": "/smart-ecommerce-checkout-workflow/static/css/main.60522bfb.css",
+    "main.js": "/smart-ecommerce-checkout-workflow/static/js/main.5700b629.js",
     "static/js/453.1b5aa61d.chunk.js": "/smart-ecommerce-checkout-workflow/static/js/453.1b5aa61d.chunk.js",
     "index.html": "/smart-ecommerce-checkout-workflow/index.html",
-    "main.d020d96e.css.map": "/smart-ecommerce-checkout-workflow/static/css/main.d020d96e.css.map",
-    "main.cffecc56.js.map": "/smart-ecommerce-checkout-workflow/static/js/main.cffecc56.js.map",
+    "main.60522bfb.css.map": "/smart-ecommerce-checkout-workflow/static/css/main.60522bfb.css.map",
+    "main.5700b629.js.map": "/smart-ecommerce-checkout-workflow/static/js/main.5700b629.js.map",
     "453.1b5aa61d.chunk.js.map": "/smart-ecommerce-checkout-workflow/static/js/453.1b5aa61d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d020d96e.css",
-    "static/js/main.cffecc56.js"
+    "static/css/main.60522bfb.css",
+    "static/js/main.5700b629.js"
   ]
 }
